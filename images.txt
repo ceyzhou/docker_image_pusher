@@ -5,6 +5,7 @@ alpine
 #支持指定架构
 --platform=linux/arm64
 
+
 nacos/nacos-server:v2.2.3-slim
 xuxueli/xxl-job-admin:2.4.0
 mysql:8.0.32
