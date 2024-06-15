@@ -13,4 +13,5 @@
 #spryker/redis-commander:0.8.0
 #redis:7.2.0
 #livinphp/rocketmq:5.1.0
-zookeeper:3.4.13
+#zookeeper:3.4.13
+openjdk:8-jre-slim
