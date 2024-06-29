@@ -15,4 +15,5 @@
 #livinphp/rocketmq:5.1.0
 #zookeeper:3.4.13
 #openjdk:8-jre-slim
-portainer/portainer-ce:latest
+#portainer/portainer-ce:latest
+nginx
