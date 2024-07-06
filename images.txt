@@ -17,7 +17,8 @@
 #openjdk:8-jre-slim
 #portainer/portainer-ce:latest
 #nginx
-docker.io/calico/cni:v3.20.6
-docker.io/calico/pod2daemon-flexvol:v3.20.6
-docker.io/calico/node:v3.20.6
-docker.io/calico/kube-controllers:v3.20.6
+#docker.io/calico/cni:v3.20.6
+#docker.io/calico/pod2daemon-flexvol:v3.20.6
+#docker.io/calico/node:v3.20.6
+#docker.io/calico/kube-controllers:v3.20.6
+registry
