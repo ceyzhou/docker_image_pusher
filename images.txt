@@ -23,4 +23,5 @@
 #docker.io/calico/kube-controllers:v3.20.6
 #registry
 #gmoney23/nfs-client-provisioner
-zookeeper:3.5
+#zookeeper:3.5
+s1mplecc/spark-hadoop:3
