@@ -24,4 +24,5 @@
 #registry
 #gmoney23/nfs-client-provisioner
 #zookeeper:3.5
-s1mplecc/spark-hadoop:3
+#s1mplecc/spark-hadoop:3
+busybox
