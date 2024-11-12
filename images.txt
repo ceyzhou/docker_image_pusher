@@ -25,4 +25,5 @@
 #gmoney23/nfs-client-provisioner
 #zookeeper:3.5
 #s1mplecc/spark-hadoop:3
-busybox
+#busybox
+mysql:8.0.32
