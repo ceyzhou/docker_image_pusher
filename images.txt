@@ -26,4 +26,5 @@
 #zookeeper:3.5
 #s1mplecc/spark-hadoop:3
 #busybox
-mysql:8.0.32
+#mysql:8.0.32
+grafana/grafana:10.2.0
